@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="AGC170415">
+      <UniqueIdentifier>{f82b6a89-cd91-4ca1-9e98-54e432a00429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ARC170422">
+      <UniqueIdentifier>{839923ee-70a7-4352-89f5-c480dfe95838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ARC170429">
+      <UniqueIdentifier>{c1bb2a92-ae89-4796-97fd-88cd8293c6a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ARC170409">
+      <UniqueIdentifier>{5016cb1b-7277-43e2-8bbd-973d6de37aa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AGC170506">
+      <UniqueIdentifier>{4f4993ec-8013-47e7-aa40-3dc6c4dc437f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ARC170520">
+      <UniqueIdentifier>{1bb53e97-c23e-4833-b81e-85bc0c37ca5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AGC17527">
+      <UniqueIdentifier>{45e4bec4-7860-4074-8134-63f897af9b39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ARC170603">
+      <UniqueIdentifier>{90b30e79-f266-4f29-ad24-96117137725e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AGC190618">
+      <UniqueIdentifier>{afb05042-d918-4950-9c7c-8c275b70e3b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="two_faced_cards.cpp">
+      <Filter>AGC170415</Filter>
+    </ClCompile>
+    <ClCompile Include="ant_circle.cpp">
+      <Filter>AGC170415</Filter>
+    </ClCompile>
+    <ClCompile Include="piling_up.cpp">
+      <Filter>AGC170415</Filter>
+    </ClCompile>
+    <ClCompile Include="placing_suqares.cpp">
+      <Filter>AGC170415</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AtCoderRC_17_04_09\sorted_arrays.cpp">
+      <Filter>AGC170415</Filter>
+    </ClCompile>
+    <ClCompile Include="unplanned_quries.cpp">
+      <Filter>AGC170506</Filter>
+    </ClCompile>
+    <ClCompile Include="..\arc_170422\cookie_exchanges.cpp">
+      <Filter>AGC170506</Filter>
+    </ClCompile>
+    <ClCompile Include="..\arc_170422\sequence.cpp">
+      <Filter>ARC170422</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AtCoderRC_17_04_09\dubious_document.cpp">
+      <Filter>ARC170409</Filter>
+    </ClCompile>
+    <ClCompile Include="..\AtCoderRC_17_04_09\井井井.cpp">
+      <Filter>ARC170409</Filter>
+    </ClCompile>
+    <ClCompile Include="..\arc_170422\Sentou.cpp">
+      <Filter>ARC170429</Filter>
+    </ClCompile>
+    <ClCompile Include="chocolate_bar.cpp">
+      <Filter>ARC170520</Filter>
+    </ClCompile>
+    <ClCompile Include="A+...+B.cpp">
+      <Filter>AGC17527</Filter>
+    </ClCompile>
+    <ClCompile Include="elevator.cpp">
+      <Filter>AGC17527</Filter>
+    </ClCompile>
+    <ClCompile Include="A or B.cpp">
+      <Filter>AGC17527</Filter>
+    </ClCompile>
+    <ClCompile Include="bugged.cpp">
+      <Filter>ARC170603</Filter>
+    </ClCompile>
+    <ClCompile Include="widespread.cpp">
+      <Filter>ARC170603</Filter>
+    </ClCompile>
+    <ClCompile Include="shrinking.cpp">
+      <Filter>AGC190618</Filter>
+    </ClCompile>
+    <ClCompile Include="colorful_cats.cpp">
+      <Filter>AGC190618</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

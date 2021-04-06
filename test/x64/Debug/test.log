@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\vsatcoder\atcodergt_17_04_01\test\test.cpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\vsatcoder\atcodergt_17_04_01\test\test.cpp(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test.vcxproj -> D:\VsAtCoder\AtCoderGT_17_04_01\x64\Debug\test.exe
+  test.vcxproj -> D:\VsAtCoder\AtCoderGT_17_04_01\x64\Debug\test.pdb (Partial PDB)
